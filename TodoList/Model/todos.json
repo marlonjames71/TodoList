@@ -1,0 +1,12 @@
+[
+    { "description": "Learn about iOS development!", "isCompleted": false },
+    { "description": "Give iOS Orlando presentation.", "isCompleted": true },
+    { "description": "Force quit Xcode ten more times.", "isCompleted": false },
+    { "description": "Download daily iOS 13 update.", "isCompleted": false },
+    { "description": "Read more John Sundell articles.", "isCompleted": false },
+    { "description": "Sign up for more iOS newsletter RSS feeds.", "isCompleted": true },
+    { "description": "Actually finish a side project...", "isCompleted": true },
+    { "description": "Visit Apple HQ.", "isCompleted": false },
+    { "description": "Attend WWDC.", "isCompleted": false },
+    { "description": "Learn more about programmatic UIKit design.", "isCompleted": true },
+]
